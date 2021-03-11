@@ -1,1 +1,1 @@
-All class files and Form arestored here
+All class files and Form are stored here
